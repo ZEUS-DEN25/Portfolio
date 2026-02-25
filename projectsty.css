@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(31, 31, 62);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    background-color: rgb(45, 45, 75);
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    color: white;
+    text-align: center; 
+}
+.text{
+    color: rgb(155, 148, 148);
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: medium;
+}
+button{
+    background-color: #6639e2;
+    color: rgb(255, 255, 255);
+    height: 45px;
+    width: 105px;
+    border: none;
+    border-radius: 5px;
+
+}
+.hov:hover{
+    background-color: rgb(124, 178, 235);
+}
+a{
+    text-decoration: none;
+    width: 100px;
+}
